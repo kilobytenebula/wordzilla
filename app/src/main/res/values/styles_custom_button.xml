@@ -1,0 +1,6 @@
+<resources>
+    <style name="CustomButton" parent="Widget.AppCompat.Button.Colored">
+        <item name="android:background">@drawable/bg_btn</item>
+        <item name="android:backgroundTint">@color/accent</item>
+    </style>
+</resources>
